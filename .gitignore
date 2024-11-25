@@ -1,4 +1,0 @@
-.gitignore
-local_config/
-*.tmp
-*.env
